@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishit1011
 - 👀 I’m interested in coding , web development and video editing. 
-- 🌱 I’m currently learning CSS and OOPS in C++
+- 🌱 I’m currently learning front end web development and DSA in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 My linked in id being --> http://www.linkedin.com/in/ishit-singh-a879a3227
 
