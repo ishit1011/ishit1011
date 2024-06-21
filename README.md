@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishit1011" alt="ishit1011" /></a> </p>
 
-- 🔭 I’m currently working on **Nursery Distribution System**
+- 🔭 I’m currently working on **Nursery Appointment System**
 
 - 🌱 I’m currently learning **Docker**
 
