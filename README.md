@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishit Singh</h1>
-<h3 align="center">A MERN Developer currently aiming to learn more.</h3>
+<h3 align="center">I am a web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishit1011&label=Profile%20views&color=0e75b6&style=flat" alt="ishit1011" /> </p>
 
