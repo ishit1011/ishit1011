@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ishit Singh</h1>
-<h3 align="center">I am a web developer.</h3>
+<h3 align="center">I am a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishit1011&label=Profile%20views&color=0e75b6&style=flat" alt="ishit1011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishit1011" alt="ishit1011" /></a> </p>
 
-- 🔭 I’m currently working on **Nursery Appointment System**
+- 🔭 I’m currently working on **Single Core CPU Design**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Databases in detail**
 
-- 🤝 I’m looking for help with **DevOps**
-
-- 💬 Ask me about **React, Node & C++**
-
-- ⚡ Fun fact **Football is my first love.**
+- 💬 Ask me about **Engineering problems to solve.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
